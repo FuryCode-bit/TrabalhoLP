@@ -22,14 +22,7 @@ todas as outras de mode que no main script sófique a função main*/
 
 /* Trabalho realizado por:
 
-    **> ↓ É favor inserir aqui os vossos nome e os números ↓ <**
-
-* --> Aluno: Marco Bernardes, Número:a45703
-* --> Aluno:                , Número:      
-* --> Aluno:                , Número:      
-* --> Aluno:                , Número:      
-* --> Aluno:                , Número:      
-*/
+* --> Aluno: Marco Bernardes */
 
 int main(){
 
